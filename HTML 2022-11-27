@@ -820,17 +820,17 @@ footer section {
 <span class="elementor-grid-item">
 <a class="elementor-icon elementor-social-icon elementor-social-icon-ti-facebook elementor-repeater-item-7fec4f0" href="https://www.facebook.com/Followinstatik" target="_blank">
 <span class="elementor-screen-only">Ti-facebook</span>
-<img src="https://res.cloudinary.com/dhhn08v44/image/upload/v1669645565/%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83_bnm59h.png" alt="Facebook" data-no-retina=""> </a>
+<i><img src="https://res.cloudinary.com/dhhn08v44/image/upload/v1669645565/%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83_bnm59h.png" alt="Facebook" data-no-retina=""></i> </a>
 </span>
 <span class="elementor-grid-item">
 <a class="elementor-icon elementor-social-icon elementor-social-icon-ti-twitter-alt elementor-repeater-item-cc70354" href="#" target="_blank">
 <span class="elementor-screen-only">Ti-twitter-alt</span>
-<img src="https://res.cloudinary.com/dhhn08v44/image/upload/v1669644589/%D8%AA%D9%88%D9%8A%D8%AA%D8%B1_dvsem9.png" alt="twitter" data-no-retina=""> </a>
+<i><img src="https://res.cloudinary.com/dhhn08v44/image/upload/v1669644589/%D8%AA%D9%88%D9%8A%D8%AA%D8%B1_dvsem9.png" alt="twitter" data-no-retina=""></i> </a>
 </span>
 <span class="elementor-grid-item">
 <a class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-7338df2" href="https://www.instagram.com/followinstatik/" target="_blank">
 <span class="elementor-screen-only">Instagram</span>
-<img src="https://res.cloudinary.com/dhhn08v44/image/upload/v1669645579/%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85_i5umiz.png" alt="instagram" data-no-retina=""> </a>
+<i><img src="https://res.cloudinary.com/dhhn08v44/image/upload/v1669645579/%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85_i5umiz.png" alt="instagram" data-no-retina=""></i> </a>
 </span>
 </div>
 </div>
