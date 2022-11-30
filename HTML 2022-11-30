@@ -853,55 +853,20 @@ footer section {
 <style id='rs-plugin-settings-inline-css' type='text/css'>
 		.rt-gen-button{position:relative;  display:inline-block;  vertical-align:top;  text-align:center;  transition:all 0.3s ease-in-out !important;  -webkit-transition:all 0.3s ease-in-out !important}.rt-gen-button:hover{box-shadow:0px 11px 14px -7px rgba(0,0,0,0.25) !important;  transform:translateY(-5px) !important;  -webkit-transform:translateY(-5px) !important}
 </style>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669248695/regenerator-runtime.min_dvoyv2.js' id='regenerator-runtime-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669248739/wp-polyfill.min_vsvcvx.js' id='wp-polyfill-js'></script>
-<script type='text/javascript' id='contact-form-7-js-extra'>
 
-</script>
 <script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669249526/rbtools.min_ldxu42.js' defer async id='tp-tools-js'></script>
 <script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669249576/rs6.min_sfa810.js' defer async id='revmin-js'></script>
 <script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669249620/radiantthemes-custom_vwfitv.js' id='radiantthemes-custom-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669249659/retina.min_onkgo1.js' id='radiantthemes-retina-min-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669249694/retina_zfdutv.js' id='radiantthemes-retina-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669249764/jquery.countdown.min_v5ncbs.js' id='countdown-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669249803/radiantthemes-comingsoon_goiyt9.js' id='radiantthemes-comingsoon-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669249835/popper.min_ztk54q.js' id='popper-min-js'></script>
 <script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669249870/bootstrap.min_kea2fp.js' id='bootstrap-js'></script>
 <script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669249926/rt-mega_fuyebj.js' id='mega-menu-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669249958/velocity.min_qa9vxh.js' id='rt-velocity-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250003/rt-velocity.ui_eedrkb.js' id='rt-velocity-ui-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250034/rt-vertical-menu_vnhhux.js' id='rt-vertical-menu-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250071/jquery.sidr.min_lvc7dk.js' id='sidr-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250103/jquery.onePageNav.min_nzgnib.js' id='onepagenav-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250135/jquery.matchHeight-min_tofsgs.js' id='matchheight-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250174/wow.min_tv6zz8.js' id='wow-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250209/jquery.nicescroll.min_nkozjr.js' id='nicescroll-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250246/jquery.sticky.min_wscwlr.js' id='sticky-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250279/fancy-box_abd9dp.js' id='fancybox-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250323/isotope.pkgd.min_rei6k2.js' id='isotope-pkgd-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250361/css3-animated_wyr1d4.js' id='radiantthemes-viewport-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250394/loader_t0livr.js' id='radiantthemes-loader-js'></script>
 <script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250429/joinchat.min_gnczlp.js' id='joinchat-js'></script>
-<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LdsLEIdAAAAAHxLjUTG2RLx15o8iuNNWwmSp91-&#038;ver=3.0' id='google-recaptcha-js'></script>
-<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
-/* <![CDATA[ */
-var wpcf7_recaptcha = {"sitekey":"6LdsLEIdAAAAAHxLjUTG2RLx15o8iuNNWwmSp91-","actions":{"homepage":"homepage","contactform":"contactform"}};
-/* ]]> */
-</script>
-
-
 <script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250668/jquery-numerator.min_vukkgw.js' id='jquery-numerator-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250706/imagesloaded.min_mi2rhz.js' id='imagesloaded-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250746/webpack-pro.runtime.min_tyaqr5.js' id='elementor-pro-webpack-runtime-js'></script>
 <script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250791/webpack.runtime.min_nlsr35.js' id='elementor-webpack-runtime-js'></script>
 <script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669250827/frontend-modules.min_qujnuu.js' id='elementor-frontend-modules-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669251053/waypoints.min_gpin8v.js' id='elementor-waypoints-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669251089/core.min_qxqeyy.js' id='jquery-ui-core-js'></script>
 <script type='text/javascript' id='elementor-frontend-js-before'>
 var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"\u0634\u0627\u0631\u0643 \u0639\u0644\u0649 \u0641\u064a\u0633\u0628\u0648\u0643","shareOnTwitter":"\u0634\u0627\u0631\u0643 \u0639\u0644\u0649 \u062a\u0648\u064a\u062a\u0631","pinIt":"\u062b\u0628\u062a\u0647\u0627 ","download":"\u062a\u062d\u0645\u064a\u0644","downloadImage":"\u062a\u0646\u0632\u064a\u0644 \u0627\u0644\u0635\u0648\u0631\u0629","fullscreen":"\u0639\u0631\u0636 \u0634\u0627\u0634\u0629 \u0643\u0627\u0645\u0644\u0629","zoom":"\u062a\u0643\u0628\u064a\u0631","share":"\u0645\u0634\u0627\u0631\u0643\u0629","playVideo":"\u062a\u0634\u063a\u064a\u0644 \u0627\u0644\u0641\u064a\u062f\u064a\u0648","previous":"\u0627\u0644\u0633\u0627\u0628\u0642","next":"\u0627\u0644\u062a\u0627\u0644\u064a","close":"\u0625\u063a\u0644\u0627\u0642"},"is_rtl":true,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"\u0627\u0644\u0647\u0627\u062a\u0641 \u0627\u0644\u0645\u062d\u0645\u0648\u0644","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"\u0647\u0627\u062a\u0641 \u0645\u062d\u0645\u0648\u0644 - \u0623\u0641\u0642\u064a","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"\u0627\u0644\u0623\u062c\u0647\u0632\u0629 \u0627\u0644\u0644\u0648\u062d\u064a\u0629","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"\u062c\u0647\u0627\u0632 \u0644\u0648\u062d\u064a -\u0623\u0641\u0642\u064a","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"\u062d\u0627\u0633\u0648\u0628 \u0645\u062d\u0645\u0648\u0644","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u0627\u0644\u0634\u0627\u0634\u0629 \u0627\u0644\u0639\u0631\u064a\u0636\u0629","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.5.4","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/proformedia.com\/modules\/f65f29574d\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":40026,"title":"%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9%20-%20Pro%20For%20Media","excerpt":"","featuredImage":"https://res.cloudinary.com/dhhn08v44/image/upload/v1669247572/%D9%81%D8%A7%D9%81%D9%8A%D9%83%D9%88%D9%86_kiwko8.png"}};
 </script>
 <script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669251137/frontend.min_txlqst.js' id='elementor-frontend-js'></script>
-<script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669251175/elements-handlers.min_emvqjv.js' id='pro-elements-handlers-js'></script>
 <script type="text/javascript" id="rs-initialisation-scripts">
 		var	tpj = jQuery;
 
