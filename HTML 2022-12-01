@@ -97,7 +97,6 @@ div#ez-toc-container p.ez-toc-title {font-size: 120%;}div#ez-toc-container p.ez-
 <script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669246611/jquery.min_wjkqti.js' id='jquery-core-js'></script>
 <script type='text/javascript' src='https://res.cloudinary.com/dhhn08v44/raw/upload/v1669246660/jquery-migrate.min_lqvte3.js' id='jquery-migrate-js'></script>
 <link rel="https://api.w.org/" href="https://res.cloudinary.com/dhhn08v44/raw/upload/v1669246950/wp-json_blkja5.json" /><link rel="alternate" type="application/json" href="https://res.cloudinary.com/dhhn08v44/raw/upload/v1669247012/40026_vkyhj6.json" /><link rel="alternate" type="application/json+oembed" href="https://res.cloudinary.com/dhhn08v44/raw/upload/v1669247089/embed_ywxtun.json" />
-<link rel="alternate" type="text/xml+oembed" href="https://res.cloudinary.com/dhhn08v44/raw/upload/v1669247218/embed1_ze8q82.json;format=xml" />
 <meta name="framework" content="Redux 4.3.9" /><style type='text/css'> .ae_data .elementor-editor-element-setting {
             display:none !important;
             }
