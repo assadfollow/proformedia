@@ -29,6 +29,11 @@
 <meta name="twitter:label2" content="Time to read" />
 <meta name="twitter:data2" content="Less than a minute" />
 <meta name="google-site-verification" content="zqCC0u7fgZFQJIR-U7A05ncigZl6D6e24Qm3c37Ggvk" />
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+	<script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+	<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	<![endif]-->
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5HMM2TRD2Z"></script>
 <script>
